@@ -30,19 +30,16 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 	Agile planning
 	Team collaboration
 	Issue tracking
-
 **Tools**
-	- Jira
-	- Azure Boards
-	- Trello
-	- Asana
-	- Confluence
-	- Slack
-	- Microsoft Teams
+	Jira
+	Azure Boards
+	Trello
+	Asana
+	Confluence
+	Slack
+	Microsoft Teams
 
----
-
-## 2️⃣ Source Code Management (SCM)
+## 2. Source Code Management (SCM)
 
 **Purpose**
 
