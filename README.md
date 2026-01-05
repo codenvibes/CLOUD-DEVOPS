@@ -1,7 +1,31 @@
 
 ## DevOps – Complete Breakdown with Tools
 
+> **DevOps is a set of practices, tools, and cultural philosophies that automate and integrate software development and IT operations to deliver applications faster and more reliably.**
+
 DevOps spans the **entire software delivery & operations lifecycle**.
+
+### DevOps Lifecycle (Simple View)
+
+```
+Plan → Code → Build → Test → Release → Deploy → Operate → Monitor → Improve
+```
+
+### DevOps Engineer Core Skill Stack (Summary)
+
+|Area|Must Know|
+|---|---|
+|Linux & Networking|✅|
+|Git & CI/CD|✅|
+|Cloud (AWS/Azure/GCP)|✅|
+|Docker & Kubernetes|✅|
+|IaC (Terraform)|✅|
+|Monitoring & Security|✅|
+
+---
+
+## ✅ Interview One-Line Definition
+
 
 
 ## 1. Planning & Collaboration
