@@ -55,52 +55,28 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 ## 3. Build Automation
 
 **Purpose**
-
-- Compile code
-    
-- Manage dependencies
-    
-- Create build artifacts
-    
-
+	- Compile code
+	- Manage dependencies
+	- Create build artifacts
 **Tools**
+	- Maven
+	- Gradle
+	- Ant
+	- npm / yarn
+	- MSBuild
 
-- Maven
-    
-- Gradle
-    
-- Ant
-    
-- npm / yarn
-    
-- MSBuild
-    
-
----
-
-## 4️⃣ Continuous Integration (CI)
+## 4. Continuous Integration (CI)
 
 **Purpose**
-
-- Automatically build & test on every commit
-    
-- Catch bugs early
-    
-
+	- Automatically build & test on every commit
+	- Catch bugs early
 **Tools**
-
-- Jenkins
-    
-- GitHub Actions
-    
-- GitLab CI
-    
-- CircleCI
-    
-- Travis CI
-    
-- Azure DevOps Pipelines
-    
+	- Jenkins
+	- GitHub Actions
+	- GitLab CI
+	- CircleCI
+	- Travis CI
+	- Azure DevOps Pipelines
 
 ---
 
