@@ -26,19 +26,19 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 ### 1. Planning & Collaboration
 
 **Purpose**
-- Requirements
-- Agile planning
-- Team collaboration
-- Issue tracking
+	Requirements
+	Agile planning
+	Team collaboration
+	Issue tracking
 
 **Tools**
-- Jira
-- Azure Boards
-- Trello
-- Asana
-- Confluence
-- Slack
-- Microsoft Teams
+	- Jira
+	- Azure Boards
+	- Trello
+	- Asana
+	- Confluence
+	- Slack
+	- Microsoft Teams
 
 ---
 
