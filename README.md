@@ -26,46 +26,33 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 ### 1. Planning & Collaboration
 
 **Purpose**
-	Requirements
-	Agile planning
-	Team collaboration
-	Issue tracking
+	- Requirements
+	- Agile planning
+	- Team collaboration
+	- Issue tracking
 **Tools**
-	Jira
-	Azure Boards
-	Trello
-	Asana
-	Confluence
-	Slack
-	Microsoft Teams
+	- Jira
+	- Azure Boards
+	- Trello
+	- Asana
+	- Confluence
+	- Slack
+	- Microsoft Teams
 
 ## 2. Source Code Management (SCM)
 
 **Purpose**
-
-- Version control
-    
-- Code collaboration
-    
-- Branching strategies
-    
-
+	- Version control
+	- Code collaboration
+	- Branching strategies
 **Tools**
+	- Git (core technology)
+	- GitHub
+	- GitLab
+	- Bitbucket
+	- Azure Repos
 
-- Git (core technology)
-    
-- GitHub
-    
-- GitLab
-    
-- Bitbucket
-    
-- Azure Repos
-    
-
----
-
-## 3️⃣ Build Automation
+## 3. Build Automation
 
 **Purpose**
 
