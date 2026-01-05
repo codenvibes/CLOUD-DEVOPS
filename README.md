@@ -4,35 +4,22 @@
 DevOps spans the **entire software delivery & operations lifecycle**.
 
 
-## 1️⃣ Planning & Collaboration
+## 1. Planning & Collaboration
 
 **Purpose**
-
 - Requirements
-    
 - Agile planning
-    
 - Team collaboration
-    
 - Issue tracking
-    
 
 **Tools**
-
 - Jira
-    
 - Azure Boards
-    
 - Trello
-    
 - Asana
-    
 - Confluence
-    
 - Slack
-    
 - Microsoft Teams
-    
 
 ---
 
@@ -451,30 +438,7 @@ DevOps spans the **entire software delivery & operations lifecycle**.
 
 ---
 
-## 🔁 DevOps Lifecycle (Simple View)
 
-```
-Plan → Code → Build → Test → Release → Deploy → Operate → Monitor → Improve
-```
-
----
-
-## 🎯 DevOps Engineer Core Skill Stack (Summary)
-
-|Area|Must Know|
-|---|---|
-|Linux & Networking|✅|
-|Git & CI/CD|✅|
-|Cloud (AWS/Azure/GCP)|✅|
-|Docker & Kubernetes|✅|
-|IaC (Terraform)|✅|
-|Monitoring & Security|✅|
-
----
-
-## ✅ Interview One-Line Definition
-
-> **DevOps is a set of practices, tools, and cultural philosophies that automate and integrate software development and IT operations to deliver applications faster and more reliably.**
 
 ---
 
