@@ -1,7 +1,7 @@
 
 ## DevOps – Complete Breakdown with Tools
 
-> **DEF-DevOps is a set of practices, tools, and cultural philosophies that automate and integrate software development and IT operations to deliver applications faster and more reliably.**
+> **DEF-==DevOps is a set of practices, tools, and cultural philosophies that automate and integrate software development and IT operations to deliver applications faster and more reliably.**==
 
 DevOps spans the **entire software delivery & operations lifecycle**.
 
@@ -22,13 +22,8 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 |IaC (Terraform)|✅|
 |Monitoring & Security|✅|
 
----
 
-## ✅ Interview One-Line Definition
-
-
-
-## 1. Planning & Collaboration
+### 1. Planning & Collaboration
 
 **Purpose**
 - Requirements
