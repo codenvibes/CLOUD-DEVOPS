@@ -78,8 +78,6 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 	- Travis CI
 	- Azure DevOps Pipelines
 
----
-
 ## 5️⃣ Automated Testing
 
 **Purpose**
@@ -127,8 +125,6 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 - Checkstyle
     
 
----
-
 ## 6️⃣ Artifact & Package Management
 
 **Purpose**
@@ -148,8 +144,6 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
     
 - GitLab Package Registry
     
-
----
 
 ## 7️⃣ Continuous Delivery / Deployment (CD)
 
@@ -175,8 +169,6 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 - Azure Release Pipelines
     
 
----
-
 ## 8️⃣ Infrastructure as Code (IaC)
 
 **Purpose**
@@ -196,8 +188,6 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
     
 - Pulumi
     
-
----
 
 ## 9️⃣ Configuration Management
 
@@ -219,8 +209,6 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 - SaltStack
     
 
----
-
 ## 🔟 Containers & Containerization
 
 **Purpose**
@@ -238,8 +226,6 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
     
 - Buildah
     
-
----
 
 ## 1️⃣1️⃣ Container Orchestration
 
@@ -270,8 +256,6 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 - GCP GKE
     
 
----
-
 ## 1️⃣2️⃣ Cloud Platforms
 
 **Purpose**
@@ -289,8 +273,6 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
     
 - Google Cloud Platform (GCP)
     
-
----
 
 ## 1️⃣3️⃣ Monitoring & Observability
 
@@ -318,8 +300,6 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 - Azure Monitor
     
 
----
-
 ## 1️⃣4️⃣ Logging & Log Management
 
 **Purpose**
@@ -339,8 +319,6 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
     
 - Loki
     
-
----
 
 ## 1️⃣5️⃣ Security (DevSecOps)
 
@@ -371,8 +349,6 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 - Azure Key Vault
     
 
----
-
 ## 1️⃣6️⃣ Release Management & Feature Control
 
 **Purpose**
@@ -390,8 +366,6 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
     
 - Argo Rollouts
     
-
----
 
 ## 1️⃣7️⃣ Backup, Recovery & Reliability (SRE)
 
