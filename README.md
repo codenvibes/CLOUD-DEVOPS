@@ -78,11 +78,11 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 	- Travis CI
 	- Azure DevOps Pipelines
 
-## 5️⃣ Automated Testing
+## 5. Automated Testing
 
 **Purpose**
-- Ensure code quality
-- Prevent regressions
+	- Ensure code quality
+	- Prevent regressions
 
 ### Unit Testing
 
@@ -109,72 +109,72 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 - ESLint
 - Checkstyle
 
-## 6️⃣ Artifact & Package Management
+## 6. Artifact & Package Management
 
 **Purpose**
-- Store build outputs
-- Versioned binaries
+	- Store build outputs
+	- Versioned binaries
 **Tools**
-- Nexus Repository
-- JFrog Artifactory
-- GitHub Packages
-- GitLab Package Registry
+	- Nexus Repository
+	- JFrog Artifactory
+	- GitHub Packages
+	- GitLab Package Registry
 
-## 7️⃣ Continuous Delivery / Deployment (CD)
+## 7. Continuous Delivery / Deployment (CD)
 
 **Purpose**
-- Automated deployments
-- Environment promotion (Dev → Test → Prod)
+	- Automated deployments
+	- Environment promotion (Dev → Test → Prod)
 **Tools**
-- Jenkins
-- GitHub Actions
-- GitLab CD
-- Argo CD
-- Spinnaker
-- Azure Release Pipelines
+	- Jenkins
+	- GitHub Actions
+	- GitLab CD
+	- Argo CD
+	- Spinnaker
+	- Azure Release Pipelines
 
-## 8️⃣ Infrastructure as Code (IaC)
+## 8. Infrastructure as Code (IaC)
 
 **Purpose**
-- Automate infrastructure provisioning
-- Version-controlled infrastructure
+	- Automate infrastructure provisioning
+	- Version-controlled infrastructure
 **Tools**
-- Terraform
-- AWS CloudFormation
-- Azure Bicep
-- Pulumi
+	- Terraform
+	- AWS CloudFormation
+	- Azure Bicep
+	- Pulumi
 
-## 9️⃣ Configuration Management
+## 9. Configuration Management
 
 **Purpose**
-- System configuration
-- Consistency across environments
+	- System configuration
+	- Consistency across environments
 **Tools**
-- Ansible
-- Chef
-- Puppet
-- SaltStack
+	- Ansible
+	- Chef
+	- Puppet
+	- SaltStack
 
-## 🔟 Containers & Containerization
+## 10. Containers & Containerization
 
 **Purpose**
-- Package applications with dependencies
-- Ensure consistency across environments
+	- Package applications with dependencies
+	- Ensure consistency across environments
 **Tools**
-- Docker
-- Podman
-- Buildah
+	- Docker
+	- Podman
+	- Buildah
 
-## 1️⃣1️⃣ Container Orchestration
+## 11. Container Orchestration
 
 **Purpose**
-- Manage containers at scale
-- High availability
-- Auto-scaling
+	- Manage containers at scale
+	- High availability
+	- Auto-scaling
 **Tools**
-- Kubernetes
-- OpenShift
-- Docker Swarm
+	- Kubernetes
+	- OpenShift
+	- Docker Swarm
 
 ### Managed Kubernetes (Cloud)
 
@@ -185,43 +185,43 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 ## 1️⃣2️⃣ Cloud Platforms
 
 **Purpose**
-- On-demand infrastructure
-- Scalability & reliability
+	- On-demand infrastructure
+	- Scalability & reliability
 **Cloud Providers**
-- AWS
-- Microsoft Azure
-- Google Cloud Platform (GCP)
+	- AWS
+	- Microsoft Azure
+	- Google Cloud Platform (GCP)
 
 ## 1️⃣3️⃣ Monitoring & Observability
 
 **Purpose**
-- Track system health
-- Metrics & alerts
-- Troubleshooting
+	- Track system health
+	- Metrics & alerts
+	- Troubleshooting
 **Tools**
-- Prometheus
-- Grafana
-- Datadog
-- New Relic
-- AWS CloudWatch
-- Azure Monitor
+	- Prometheus
+	- Grafana
+	- Datadog
+	- New Relic
+	- AWS CloudWatch
+	- Azure Monitor
 
 ## 1️⃣4️⃣ Logging & Log Management
 
 **Purpose**
-- Centralized logs
-- Debugging & auditing
+	- Centralized logs
+	- Debugging & auditing
 **Tools**
-- ELK Stack (Elasticsearch, Logstash, Kibana)
-- EFK Stack (Fluentd instead of Logstash)
-- Splunk
-- Loki
+	- ELK Stack (Elasticsearch, Logstash, Kibana)
+	- EFK Stack (Fluentd instead of Logstash)
+	- Splunk
+	- Loki
 
 ## 1️⃣5️⃣ Security (DevSecOps)
 
 **Purpose**
-- Shift security left
-- Automated security checks
+	- Shift security left
+	- Automated security checks
 
 ### Static & Dynamic Analysis
 
