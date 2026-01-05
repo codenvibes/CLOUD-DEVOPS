@@ -1,7 +1,7 @@
 
 ## DevOps – Complete Breakdown with Tools
 
-> **DevOps is a set of practices, tools, and cultural philosophies that automate and integrate software development and IT operations to deliver applications faster and more reliably.**
+> **DEF-DevOps is a set of practices, tools, and cultural philosophies that automate and integrate software development and IT operations to deliver applications faster and more reliably.**
 
 DevOps spans the **entire software delivery & operations lifecycle**.
 
