@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "WHITE-BOARD"
             }
+          },
+          {
+            "id": "03d0aa7d0a55dc7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QUICK NOTES/WHITE-BOARD.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WHITE-BOARD"
+              "title": "Outline of README"
             }
           }
         ],
@@ -157,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +187,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "856ee6e739ef25c1",
+  "active": "03d0aa7d0a55dc7e",
   "lastOpenFiles": [
+    "QUICK NOTES/WHITE-BOARD.md",
+    "README.md",
     "DEVOPS/Fundamentals-HandsOn/README.md",
     "DEVOPS/Fundamentals-HandsOn/LICENSE",
     "DEVOPS/Fundamentals-HandsOn/L36-02 Scale Pods/pod.yaml",
@@ -207,8 +225,6 @@
     "DEVOPS/Fundamentals-HandsOn/L21-05 Init Containers/Readme.md",
     "DEVOPS/Fundamentals-HandsOn/L21-04 Pods/Readme.md",
     "DEVOPS/Fundamentals-HandsOn/L20-03 Nodes/Readme.md",
-    "DEVOPS/Fundamentals-HandsOn/L19-02 Namespaces/Readme.md",
-    "DEVOPS/Fundamentals-HandsOn/L18-04 Declarative vs Imperative/Readme.md",
     "DEVOPS/Fundamentals-HandsOn/L09-05 Docker Compose - Sample App/frontend/src/logo.svg",
     "DEVOPS/Fundamentals-HandsOn/L09-05 Docker Compose - Sample App/frontend/public/logo512.png",
     "DEVOPS/Fundamentals-HandsOn/L09-05 Docker Compose - Sample App/frontend/public/logo192.png",
