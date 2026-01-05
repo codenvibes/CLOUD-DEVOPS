@@ -81,313 +81,182 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 ## 5️⃣ Automated Testing
 
 **Purpose**
-
 - Ensure code quality
-    
 - Prevent regressions
-    
 
 ### Unit Testing
 
 - JUnit
-    
 - TestNG
-    
 - pytest
-    
 - NUnit
-    
 
 ### Integration & Functional Testing
 
 - Selenium
-    
 - Cypress
-    
 - Playwright
-    
 
 ### Performance & Load Testing
 
 - JMeter
-    
 - Gatling
-    
 - Locust
-    
 
 ### Code Quality & Security
 
 - SonarQube
-    
 - ESLint
-    
 - Checkstyle
-    
 
 ## 6️⃣ Artifact & Package Management
 
 **Purpose**
-
 - Store build outputs
-    
 - Versioned binaries
-    
-
 **Tools**
-
 - Nexus Repository
-    
 - JFrog Artifactory
-    
 - GitHub Packages
-    
 - GitLab Package Registry
-    
 
 ## 7️⃣ Continuous Delivery / Deployment (CD)
 
 **Purpose**
-
 - Automated deployments
-    
 - Environment promotion (Dev → Test → Prod)
-    
-
 **Tools**
-
 - Jenkins
-    
 - GitHub Actions
-    
 - GitLab CD
-    
 - Argo CD
-    
 - Spinnaker
-    
 - Azure Release Pipelines
-    
 
 ## 8️⃣ Infrastructure as Code (IaC)
 
 **Purpose**
-
 - Automate infrastructure provisioning
-    
 - Version-controlled infrastructure
-    
-
 **Tools**
-
 - Terraform
-    
 - AWS CloudFormation
-    
 - Azure Bicep
-    
 - Pulumi
-    
 
 ## 9️⃣ Configuration Management
 
 **Purpose**
-
 - System configuration
-    
 - Consistency across environments
-    
-
 **Tools**
-
 - Ansible
-    
 - Chef
-    
 - Puppet
-    
 - SaltStack
-    
 
 ## 🔟 Containers & Containerization
 
 **Purpose**
-
 - Package applications with dependencies
-    
 - Ensure consistency across environments
-    
-
 **Tools**
-
 - Docker
-    
 - Podman
-    
 - Buildah
-    
 
 ## 1️⃣1️⃣ Container Orchestration
 
 **Purpose**
-
 - Manage containers at scale
-    
 - High availability
-    
 - Auto-scaling
-    
-
 **Tools**
-
 - Kubernetes
-    
 - OpenShift
-    
 - Docker Swarm
-    
 
 ### Managed Kubernetes (Cloud)
 
 - AWS EKS
-    
 - Azure AKS
-    
 - GCP GKE
-    
 
 ## 1️⃣2️⃣ Cloud Platforms
 
 **Purpose**
-
 - On-demand infrastructure
-    
 - Scalability & reliability
-    
-
 **Cloud Providers**
-
 - AWS
-    
 - Microsoft Azure
-    
 - Google Cloud Platform (GCP)
-    
 
 ## 1️⃣3️⃣ Monitoring & Observability
 
 **Purpose**
-
 - Track system health
-    
 - Metrics & alerts
-    
 - Troubleshooting
-    
-
 **Tools**
-
 - Prometheus
-    
 - Grafana
-    
 - Datadog
-    
 - New Relic
-    
 - AWS CloudWatch
-    
 - Azure Monitor
-    
 
 ## 1️⃣4️⃣ Logging & Log Management
 
 **Purpose**
-
 - Centralized logs
-    
 - Debugging & auditing
-    
-
 **Tools**
-
 - ELK Stack (Elasticsearch, Logstash, Kibana)
-    
 - EFK Stack (Fluentd instead of Logstash)
-    
 - Splunk
-    
 - Loki
-    
 
 ## 1️⃣5️⃣ Security (DevSecOps)
 
 **Purpose**
-
 - Shift security left
-    
 - Automated security checks
-    
 
 ### Static & Dynamic Analysis
 
 - Snyk
-    
 - OWASP ZAP
-    
 - Checkmarx
-    
 - Trivy
-    
 
 ### Secrets Management
 
 - HashiCorp Vault
-    
 - AWS Secrets Manager
-    
 - Azure Key Vault
-    
 
 ## 1️⃣6️⃣ Release Management & Feature Control
 
 **Purpose**
-
 - Safe releases
-    
 - Gradual rollouts
-    
-
 **Tools**
-
 - LaunchDarkly
-    
 - Flagger
-    
 - Argo Rollouts
-    
 
 ## 1️⃣7️⃣ Backup, Recovery & Reliability (SRE)
 
 **Purpose**
-
 - High availability
-    
 - Disaster recovery
-    
 - Reliability engineering
-    
-
 **Tools**
-
 - Velero (Kubernetes backup)
-    
 - AWS Backup
-    
 - Azure Site Recovery
-    
 - Chaos Monkey (resilience testing)
-    
 
 ---
 
