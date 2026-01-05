@@ -182,7 +182,7 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 - Azure AKS
 - GCP GKE
 
-## 1️⃣2️⃣ Cloud Platforms
+## 12. Cloud Platforms
 
 **Purpose**
 	- On-demand infrastructure
@@ -192,7 +192,7 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 	- Microsoft Azure
 	- Google Cloud Platform (GCP)
 
-## 1️⃣3️⃣ Monitoring & Observability
+## 13. Monitoring & Observability
 
 **Purpose**
 	- Track system health
@@ -206,7 +206,7 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 	- AWS CloudWatch
 	- Azure Monitor
 
-## 1️⃣4️⃣ Logging & Log Management
+## 14. Logging & Log Management
 
 **Purpose**
 	- Centralized logs
@@ -217,7 +217,7 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 	- Splunk
 	- Loki
 
-## 1️⃣5️⃣ Security (DevSecOps)
+## 15. Security (DevSecOps)
 
 **Purpose**
 	- Shift security left
@@ -236,7 +236,7 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 - AWS Secrets Manager
 - Azure Key Vault
 
-## 1️⃣6️⃣ Release Management & Feature Control
+## 16. Release Management & Feature Control
 
 **Purpose**
 	- Safe releases
@@ -246,7 +246,7 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 	- Flagger
 	- Argo Rollouts
 
-## 1️⃣7️⃣ Backup, Recovery & Reliability (SRE)
+## 17. Backup, Recovery & Reliability (SRE)
 
 **Purpose**
 	- High availability
@@ -257,20 +257,3 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 	- AWS Backup
 	- Azure Site Recovery
 	- Chaos Monkey (resilience testing)
-
----
-
-
-
----
-
-If you want, I can next:
-
-- Build a **DevOps learning roadmap**
-    
-- Map **DevOps vs SRE vs Platform Engineering**
-    
-- Create a **real-world DevOps project architecture**
-    
-
-Just tell me 🚀
