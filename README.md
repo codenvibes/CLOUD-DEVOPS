@@ -239,24 +239,24 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 ## 1️⃣6️⃣ Release Management & Feature Control
 
 **Purpose**
-- Safe releases
-- Gradual rollouts
+	- Safe releases
+	- Gradual rollouts
 **Tools**
-- LaunchDarkly
-- Flagger
-- Argo Rollouts
+	- LaunchDarkly
+	- Flagger
+	- Argo Rollouts
 
 ## 1️⃣7️⃣ Backup, Recovery & Reliability (SRE)
 
 **Purpose**
-- High availability
-- Disaster recovery
-- Reliability engineering
+	- High availability
+	- Disaster recovery
+	- Reliability engineering
 **Tools**
-- Velero (Kubernetes backup)
-- AWS Backup
-- Azure Site Recovery
-- Chaos Monkey (resilience testing)
+	- Velero (Kubernetes backup)
+	- AWS Backup
+	- Azure Site Recovery
+	- Chaos Monkey (resilience testing)
 
 ---
 
