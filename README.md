@@ -11,6 +11,7 @@ DevOps spans the **entire software delivery & operations lifecycle**.
 Plan → Code → Build → Test → Release → Deploy → Operate → Monitor → Improve
 ```
 
+![[Pasted image 20260107115449.png]]
 ### DevOps Engineer Core Skill Stack (Summary)
 
 |Area|Must Know|
